@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.26)  18 MAY 2023 18:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.26)  18 MAY 2023 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1014,114 +1014,150 @@ tex
 2022/01/19 4.03 tkz-obj-eu-show.tex
 ) (/usr/share/texlive/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-triangles.tex
 2022/01/19 4.03 tkz-obj-eu-triangles.tex
-))
+)) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen323
+\captionmargin@=\dimen324
+\captionwidth=\dimen325
+\caption@tempdima=\dimen326
+\caption@indent=\dimen327
+\caption@parindent=\dimen328
+\caption@hangindent=\dimen329
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count331
+\c@continuedfloat=\count332
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
-04.
+06.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 ) (./hardware.aux)
 \openout1 = `hardware.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 104.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 106.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-104.
+106.
+
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 106.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-104.
+106.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 106.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-104.
+106.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 106.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 1
-04.
+06.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <6> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <6> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <8> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <8> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <14> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <20> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <20> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <22> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <22> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <24> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <24> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 104.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 106.
 
 
 -- Lines per column: 50 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count331
-\scratchdimen=\dimen323
+\scratchcounter=\count333
+\scratchdimen=\dimen330
 \scratchbox=\box73
-\nofMPsegments=\count332
-\nofMParguments=\count333
+\nofMPsegments=\count334
+\nofMParguments=\count335
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count334
-\MPscratchDim=\dimen324
-\MPnumerator=\count335
-\makeMPintoPDFobject=\count336
+\MPscratchCnt=\count336
+\MPscratchDim=\dimen331
+\MPnumerator=\count337
+\makeMPintoPDFobject=\count338
 \everyMPtoPDFconversion=\toks44
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1132,19 +1168,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count337
+\c@lstlisting=\count339
 \symgns@font=\mathgroup10
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/txr/m/n --> TS1/txr/b/n on input line 104.
-Package gensymb Info: Math companion symbols declared on input line 104.
-LaTeX Info: Redefining \degree on input line 104.
-LaTeX Info: Redefining \celsius on input line 104.
+(Font)                  TS1/txr/m/n --> TS1/txr/b/n on input line 106.
+Package gensymb Info: Math companion symbols declared on input line 106.
+LaTeX Info: Redefining \degree on input line 106.
+LaTeX Info: Redefining \celsius on input line 106.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 104.
-LaTeX Info: Redefining \ohm on input line 104.
-Package gensymb Info: Using \textohm for \ohm on input line 104.
-Package gensymb Info: Using \textmu for \micro on input line 104.
-Package hyperref Info: Link coloring OFF on input line 104.
+erthousand on input line 106.
+LaTeX Info: Redefining \ohm on input line 106.
+Package gensymb Info: Using \textohm for \ohm on input line 106.
+Package gensymb Info: Using \textmu for \micro on input line 106.
+Package hyperref Info: Link coloring OFF on input line 106.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1155,22 +1191,24 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count338
+\c@section@level=\count340
 )
-LaTeX Info: Redefining \ref on input line 104.
-LaTeX Info: Redefining \pageref on input line 104.
-LaTeX Info: Redefining \nameref on input line 104.
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
 
 (./hardware.out) (./hardware.out)
 \@outlinefile=\write4
 \openout4 = `hardware.out'.
 
-\c@theorem=\count339
-\c@problem=\count340
-\c@proposition=\count341
-\c@lemma=\count342
-\c@example=\count343
-\c@rem=\count344
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\c@theorem=\count341
+\c@problem=\count342
+\c@proposition=\count343
+\c@lemma=\count344
+\c@example=\count345
+\c@rem=\count346
  (./tables/table.tex
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 6
 .
@@ -1205,12 +1243,12 @@ File: ts1txr.fd 2000/12/15 v3.1
 <images/555_timer_circuit.jpg, id=8, 697.60625pt x 542.025pt>
 File: images/555_timer_circuit.jpg Graphic file (type jpg)
 <use images/555_timer_circuit.jpg>
-Package pdftex.def Info: images/555_timer_circuit.jpg  used on input line 318.
+Package pdftex.def Info: images/555_timer_circuit.jpg  used on input line 320.
 (pdftex.def)             Requested size: 252.0pt x 195.79877pt.
 <images/7474.jpg, id=9, 968.61874pt x 542.025pt>
 File: images/7474.jpg Graphic file (type jpg)
 <use images/7474.jpg>
-Package pdftex.def Info: images/7474.jpg  used on input line 327.
+Package pdftex.def Info: images/7474.jpg  used on input line 329.
 (pdftex.def)             Requested size: 252.0pt x 141.01414pt.
 
 
@@ -1219,13 +1257,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/circuit_connections.jpg, id=11, 1204.5pt x 475.7775pt>
 File: images/circuit_connections.jpg Graphic file (type jpg)
 <use images/circuit_connections.jpg>
-Package pdftex.def Info: images/circuit_connections.jpg  used on input line 334
+Package pdftex.def Info: images/circuit_connections.jpg  used on input line 336
 .
 (pdftex.def)             Requested size: 252.0pt x 99.53871pt.
 <images/7447.jpg, id=13, 939.51pt x 542.025pt>
 File: images/7447.jpg Graphic file (type jpg)
 <use images/7447.jpg>
-Package pdftex.def Info: images/7447.jpg  used on input line 341.
+Package pdftex.def Info: images/7447.jpg  used on input line 343.
 (pdftex.def)             Requested size: 252.0pt x 145.38104pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1233,13 +1271,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <images/7447_table.jpg, id=16, 1204.5pt x 221.82875pt>
 File: images/7447_table.jpg Graphic file (type jpg)
 <use images/7447_table.jpg>
-Package pdftex.def Info: images/7447_table.jpg  used on input line 348.
+Package pdftex.def Info: images/7447_table.jpg  used on input line 350.
 (pdftex.def)             Requested size: 252.0pt x 46.4094pt.
 <images/seven_segment_display.jpg, id=17, 397.485pt x 542.025pt>
 File: images/seven_segment_display.jpg Graphic file (type jpg)
 <use images/seven_segment_display.jpg>
 Package pdftex.def Info: images/seven_segment_display.jpg  used on input line 3
-53.
+55.
 (pdftex.def)             Requested size: 252.0pt x 343.64445pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1247,44 +1285,47 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/output.jpg, id=19, 592.2125pt x 1284.8pt>
+
+LaTeX Warning: Reference `output' on page 1 undefined on input line 367.
+
+<images/output.jpg, id=18, 592.2125pt x 1284.8pt>
 File: images/output.jpg Graphic file (type jpg)
 <use images/output.jpg>
-Package pdftex.def Info: images/output.jpg  used on input line 367.
+Package pdftex.def Info: images/output.jpg  used on input line 371.
 (pdftex.def)             Requested size: 252.0pt x 546.70914pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./images/555_timer_circuit.jpg> <./images/7474.jpg> <./images/circuit_connect
-ions.jpg>]
+ions.jpg>] [2 <./images/7447.jpg> <./images/7447_table.jpg> <./images/seven_seg
+ment_display.jpg> <./images/output.jpg>] (./hardware.aux)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: There were undefined references.
 
-[2 <./images/7447.jpg> <./images/7447_table.jpg> <./images/seven_segment_displa
-y.jpg>] [3
-
- <./images/output.jpg>] (./hardware.aux)
 Package rerunfilecheck Info: File `hardware.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29152 strings out of 478287
- 575393 string characters out of 5849289
- 837254 words of memory out of 5000000
- 46712 multiletter control sequences out of 15000+600000
- 535996 words of font info for 167 fonts, out of 8000000 for 9000
+ 30379 strings out of 478287
+ 599741 string characters out of 5849289
+ 860470 words of memory out of 5000000
+ 47933 multiletter control sequences out of 15000+600000
+ 536292 words of font info for 167 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 101i,9n,96p,500b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,9n,96p,500b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 bi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on hardware.pdf (3 pages, 294856 bytes).
+Output written on hardware.pdf (2 pages, 295753 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

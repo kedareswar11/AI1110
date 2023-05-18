@@ -19,6 +19,8 @@
 \usepackage[breaklinks=true]{hyperref}
 \usepackage{tkz-euclide} % loads  TikZ and tkz-base
 \usepackage{listings}
+\usepackage{caption}
+
 %
 %\usepackage{setspace}
 %\usepackage{gensymb}
@@ -364,9 +366,12 @@
 \section*{Output} 
 	Output was changing digits on the seven segment display the output is shown in figure \ref{output}
 	\begin{figure}[h]
+	        \centering
+	        
 		\includegraphics[width=\linewidth]{images/output.jpg}
-		\caption{output}
-		\label{output}
+		\captionsetup{justification=centering}	
+		\centering{\caption{random number generator}}
+		\centering{\label{fig :}}
 	\end{figure}
 	
 \end{enumerate}
